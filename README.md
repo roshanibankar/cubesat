@@ -1,1 +1,1 @@
-# avionics-power-io-board
+# cubesat
